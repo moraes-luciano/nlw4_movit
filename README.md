@@ -14,7 +14,6 @@
 - Next.js
 - React.js
 - Typscript
-- HTML5
 - CSS3
 
 ## Como executar o projeto
